@@ -1,0 +1,14 @@
+.idea
+.vscode
+.DS_Store
+node_modules
+
+# build
+public
+dict
+test/mock/public
+test/mock/site
+
+# tests
+.nyc_output
+coverage
